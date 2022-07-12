@@ -60,7 +60,7 @@
     "type": 1,
     "description": "Express provider for Syncler by JakedUp. It contains all the sources you will need in one package. Use this package on its own. Visit the repository URL for more information.",
     "repositoryUrl": "https://github.com/JakedUp/Syncler-Packages",
-    "packageUrl": "https://syncler-providers.herokuapp.com/syncler/express-hybrid.json?orion-api-key=FSKULLJGLEFAYHEU9BLM8E8JJPLPJ3P9"
+    "packageUrl": "https://syncler-providers.herokuapp.com/syncler/express-hybrid.json?orion-api-key=VV6UJDAO3LMOOVKCSAFO2TTIHBDLOD2MYLUXSGVZR3V7AWJYCIRNLN3FOSM5T6RIC3E7BEJF4USQZNP2GFADYDFLK4BH2DLLROCNHCPDBVAIW6H7RODW6FDQZQXGDOUG"
   },
   {
     "title": "JakedUp - Hybrid (excluding Orion providers)",
